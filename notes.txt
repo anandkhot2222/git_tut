@@ -1,4 +1,4 @@
-
+Anand:
 1) Behavioral changes
 	- If a non-reproducible issues happens, chase it
           until it is blessed by Narayana/Anand/Priyesh
@@ -14,3 +14,4 @@
 	- action cards 
 	- etc
 
+Khot:
