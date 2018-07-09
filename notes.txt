@@ -1,0 +1,16 @@
+
+1) Behavioral changes
+	- If a non-reproducible issues happens, chase it
+          until it is blessed by Narayana/Anand/Priyesh
+	- Don't allow the developers to aks for testing under
+          changed parameters (e.g. try on some other server)
+	- Serious review of what to be tested after any hotfix
+
+2) Test case review
+
+3) Build exploratory tips for various functional modules
+	- surveys
+	- workflows
+	- action cards 
+	- etc
+
